@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529237752454",
+    "project_id": "app-gamer-box",
+    "storage_bucket": "app-gamer-box.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529237752454:android:919779ae6d65352fbbef07",
+        "android_client_info": {
+          "package_name": "com.example.avaliacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529237752454-ctpjka6mgcv0a0nvbsh5fmfbs2np5u3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCkxUXhIES1L2Udc8aQhQUR5FuHHOU3EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529237752454-ctpjka6mgcv0a0nvbsh5fmfbs2np5u3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
